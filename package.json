@@ -1,0 +1,25 @@
+{
+  "name": "bamazon-CLI",
+  "version": "1.0.0",
+  "description": "In Customer app you may use commands to see info on products and buy them.\r In Manager app you may see info on all products, see info on low inventory products, add to a products inventory, and add new products.",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MATT0568/bamazon-CLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MATT0568/bamazon-CLI/issues"
+  },
+  "homepage": "https://github.com/MATT0568/bamazon-CLI#readme"
+}
